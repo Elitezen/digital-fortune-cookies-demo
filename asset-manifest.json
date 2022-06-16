@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-fortune-cookies-demo/static/css/main.80315daa.css",
+    "main.js": "/digital-fortune-cookies-demo/static/js/main.2811d28a.js",
+    "index.html": "/digital-fortune-cookies-demo/index.html",
+    "main.80315daa.css.map": "/digital-fortune-cookies-demo/static/css/main.80315daa.css.map",
+    "main.2811d28a.js.map": "/digital-fortune-cookies-demo/static/js/main.2811d28a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80315daa.css",
+    "static/js/main.2811d28a.js"
+  ]
+}
