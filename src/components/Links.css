@@ -1,0 +1,12 @@
+ul {
+  padding: 1em;
+}
+
+ul li {
+  margin: 1em 0;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #0095F0;
+}

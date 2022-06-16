@@ -1,0 +1,22 @@
+footer {
+  width: 100%;
+  height: fit-content;
+  padding: 1em;
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+  line-height: 1.1em;
+}
+
+footer p {
+  font-size: 0.75rem;
+}
+
+footer p a {
+  color: inherit;
+  margin: 0 0.5em;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
