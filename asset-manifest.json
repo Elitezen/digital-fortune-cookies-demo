@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/digital-fortune-cookies-demo/static/css/main.80315daa.css",
-    "main.js": "/digital-fortune-cookies-demo/static/js/main.2811d28a.js",
+    "main.css": "/digital-fortune-cookies-demo/static/css/main.2b97568f.css",
+    "main.js": "/digital-fortune-cookies-demo/static/js/main.450908e9.js",
     "index.html": "/digital-fortune-cookies-demo/index.html",
-    "main.80315daa.css.map": "/digital-fortune-cookies-demo/static/css/main.80315daa.css.map",
-    "main.2811d28a.js.map": "/digital-fortune-cookies-demo/static/js/main.2811d28a.js.map"
+    "main.2b97568f.css.map": "/digital-fortune-cookies-demo/static/css/main.2b97568f.css.map",
+    "main.450908e9.js.map": "/digital-fortune-cookies-demo/static/js/main.450908e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.80315daa.css",
-    "static/js/main.2811d28a.js"
+    "static/css/main.2b97568f.css",
+    "static/js/main.450908e9.js"
   ]
 }
