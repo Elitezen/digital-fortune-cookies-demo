@@ -27,6 +27,10 @@ export default function Cookie() {
       <button onClick={() => generateCookie()}>
         Generate a Cookie!
       </button>
+
+      <p>
+        Initial request may take a few seconds
+      </p>
     </div>
   );
 }
